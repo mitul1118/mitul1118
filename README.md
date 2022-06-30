@@ -27,3 +27,5 @@
 ![snake gif](https://github.com/mitul1118/mitul1118/blob/output/github-contribution-grid-snake.gif)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
