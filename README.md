@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... React JS & NodeJS with MongoDB.
+- 🔭 I’m currently working on ... React JS & NodeJS with MongoDB, MySql and PostgreSQL.
 
-- 🌱 I’m currently learning ... Angular
+- 🌱 I’m currently learning ... nest.
 
 - 💬 Ask me about ... React JS, Node JS
 
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mitul1118&theme=nord&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitul1118&hide=java&layout=compact)
 
