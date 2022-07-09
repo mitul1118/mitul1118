@@ -24,6 +24,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitul1118&" alt="mitul1118" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   4 hrs 57 mins   ██████████████████████▓░░   90.50 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Snake eating my contribution graph
