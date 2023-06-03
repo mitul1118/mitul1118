@@ -27,7 +27,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
